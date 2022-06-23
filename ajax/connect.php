@@ -1,7 +1,7 @@
 <?php
 
-$hn = 'localhost';
-$db = 'airdrome';
+$hn = 'localhost'; // Change this
+$db = 'airdrome'; // Change this
 $un = 'username'; // Change this
 $pw = 'password'; // Change this
 $conn = false;
